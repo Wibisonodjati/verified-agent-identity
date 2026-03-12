@@ -38,4 +38,4 @@ jobs:
 
       - name: Step 3 - Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "wibisonobillions", "description": "uangdroid AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "wibisonobillions", "description": "wibisonobillions AI Agent"}'
